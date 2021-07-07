@@ -1,0 +1,24 @@
+# Inventory Manager for Nikhil
+
+- Features
+  - User Profile (Non-MVP)
+    - User Login ID
+    - Associated Email
+    - Password (Hashed - Basic)
+    - Email Verification?
+    - User Profile Picture
+  - Item Management (MVP)
+    - Create an item
+    - Read an item
+    - Update an item
+    - Delete an item
+- An item would have (MVP)
+  - Title
+  - Description
+  - Size (L x H x W) in inches
+  - Approximate value
+  - Residing location (Variable)
+    - Room
+    - Kitchen
+    - Washroom
+    - Wardrobe
